@@ -1,2 +1,2 @@
 # datascience-beginner
-Projeto da Iris Data Science
+Projeto da Iris Data Science para iniciantes
